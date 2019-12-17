@@ -1,0 +1,2 @@
+4294967295
+pessoa fisica 1 -1 1102 pf street, 200  7891011 fulano2@detal.com

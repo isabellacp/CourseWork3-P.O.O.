@@ -1,0 +1,3 @@
+2
+pessoa juridica 01 1 1102 pf street, 200  13579 empresa1@fulano.com 1201 comercio detal 10/01/2005
+pessoa fisica 1 2 1102 pf street, 200  813579 empresa2@fulano.com 12201 comercio 2 detal 2 10/01/2005
